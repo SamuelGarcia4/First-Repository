@@ -1,0 +1,19 @@
+a {
+    font-size: 200px;
+
+}
+a:hover {
+    background-color: purple;
+    font-size: 500px;
+    color: greenyellow;
+}
+a:active {
+    background-color: orange;
+    font-size: 300px;
+    color: aquamarine;
+}
+a:focus {
+    background-color: forestgreen;
+    font-size: 200px;
+    color: black;
+}
